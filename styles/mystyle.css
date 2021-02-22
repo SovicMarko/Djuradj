@@ -1,0 +1,49 @@
+html {
+     scroll-behavior: smooth;
+     
+}
+
+* {
+    /* outline: 1px dashed green; */
+}
+
+.logo {
+    font-size: 2em;
+}
+.logo span {
+    font-size: 1.2em;
+}
+
+.baner img {
+    width: 100%;
+}
+
+#mySidebar {
+    background-color: #882222 !important;
+    color: white !important;
+    padding: 20px 20px;
+    position: relative;
+}
+
+#mySidebar 
+.w3-text-teal {
+    color : gainsboro !important;
+}
+
+.w3-text-teal {
+    color :  #882222 !important;
+}
+
+.w3-teal {
+    background-color: #882222 !important;
+}
+
+.social {
+    font-size: 30px !important;
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    width: 100%;
+    left: 0px;
+    bottom: 20px;
+}
